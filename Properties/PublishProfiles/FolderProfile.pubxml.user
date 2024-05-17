@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publish Apps\DotnetCore API\SMKScoring</_PublishTargetUrl>
+    <History>True|2021-09-25T01:40:46.3038753Z;True|2021-09-25T04:58:33.6077613+07:00;True|2021-09-25T04:36:44.3240163+07:00;True|2021-09-25T04:36:03.8713252+07:00;True|2021-09-25T04:27:40.4752025+07:00;False|2021-09-25T04:27:31.3299864+07:00;True|2021-09-25T04:21:45.4051825+07:00;True|2021-09-25T04:07:53.3339957+07:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>
